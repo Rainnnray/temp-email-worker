@@ -1,0 +1,4 @@
+ADMIN_TOKEN=dev-admin-token
+API_TOKEN=dev-api-token
+# Optional: forward original emails to a verified Email Routing destination address.
+FORWARD_TO=
